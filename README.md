@@ -7,7 +7,9 @@ https://shakes-beer.herokuapp.com/
 # Installation
 
 **Clone** this repo https://github.com/saadricklamar/shakesbeer.git and move into it.
+
 ``` git clone https://github.com/saadricklamar/shakesbeer.git```
+
 ``` cd shakesbeer```
 
 In the project directory you will need to instal dependencies and start the server, please run:
