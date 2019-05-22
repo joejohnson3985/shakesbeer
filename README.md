@@ -2,6 +2,8 @@
 
 Need a beer, but not sure where to find one?! *ShakesBeer* will locate your next beer and brewery. Pick a state, filter by city, beer style, or ibu. Really love a beer?! Well, then favorite it. Cheers! 
 
+https://shakes-beer.herokuapp.com/
+
 # Installation
 
 **Clone** this repo https://github.com/saadricklamar/shakesbeer.git and `cd` into it.
