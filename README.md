@@ -6,13 +6,15 @@ https://shakes-beer.herokuapp.com/
 
 # Installation
 
-**Clone** this repo https://github.com/saadricklamar/shakesbeer.git and `cd` into it.
+**Clone** this repo https://github.com/saadricklamar/shakesbeer.git and move into it.
+``` git clone https://github.com/saadricklamar/shakesbeer.git```
+``` cd shakesbeer```
 
-In the project directory, please run:
+In the project directory you will need to instal dependencies and start the server, please run:
 
-**npm install**
+```npm install```
 
-**npm start**
+```npm start```
 
 npm start will run the app in the development mode. When the server is running, open http://localhost:3000 to view it in the browser.
 
